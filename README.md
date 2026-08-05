@@ -58,7 +58,7 @@ MPI from Python.
 <h2>Message Passing Programming with MPI</h2>
 
 <p><strong>Dates:</strong> 9th - 10th September 2026, Durham University
-<p><strong>Location:</strong> Room OCW017, Ogden Centre West building Lower Mountjoy, South Rd, Durham DH1 3LE
+<p><strong>Location:</strong> Room OCW017, Ogden Centre, West building, Lower Mountjoy, South Rd, Durham DH1 3LE.
 
 <h3>Timetable</h3>
 
