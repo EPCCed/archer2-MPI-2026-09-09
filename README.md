@@ -181,8 +181,10 @@ for private study. </blockquote></p>
 <h3>Installing MPI locally</h3>
 
 Note that all registered users will be given access to the ARCHER2
-system. Although having MPI installed on your laptop may be
-convenient, do not worry if these instructions do not work for you.
+system for all the MPI programming exercises.
+
+Although having MPI installed on your laptop may be convenient, do not
+worry if these instructions do not work for you.
 
 <h4>Linux</h4>
 
