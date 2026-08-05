@@ -57,8 +57,8 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates: </strong>22nd - 23rd April 2026, Imperial College, London
-<p><strong>Location: </strong>Lecture Theatre 414, Roderic Hill Building, South Kensington Campus, London, SW7 2AZ
+<p><strong>Dates:</strong> 9th - 10th September 2026, Durham University
+<p><strong>Location:</strong> Room OCW017, Ogden Centre West building Lower Mountjoy, South Rd, Durham DH1 3LE
 
 <h3>Timetable</h3>
 
@@ -96,25 +96,21 @@ the first lecture at 09:30</strong>
 <li>    12:00 Collective Communication
 <li>    12:30 Lunch
 <li>    13:30 Practical: Collective Communication
-<li> 14:00 Virtual Topologies
-<li> 14:30 Practical: Message Round a Ring (cont)
-<li> 15:00 Break
-<li> 15:15 Derived Data Types
-<li> 16:00 Case Study
-<li> 16:15 Practical: Complete exercises
-<li> 16:45 Finish
+<li>    14:00 Virtual Topologies
+<li>    14:30 Practical: Message Round a Ring (cont)
+<li>    15:00 Break
+<li>    15:15 Derived Data Types
+<li>    16:00 Case Study
+<li>    16:15 Practical: Complete exercises
+<li>    16:45 Finish
 
 </ul>
 
-<h4>Wednesday 27th August (online tutorial session)</h4>
-
-</ul>
-
-<h4>Friday 1st May</h4>
+<h4>Wednesday 16th September</h4>
 
 <ul>
 
-<li> 10:00 - 12:30 Online tutorial session including interactive multiple-choice quiz
+<li> 14:00 - 16:30 Online tutorial session including interactive multiple-choice quiz and walkthrough of solution to the image-processing Case Study
 
 </ul>
 
