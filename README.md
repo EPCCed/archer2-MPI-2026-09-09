@@ -88,7 +88,6 @@ the first lecture at 09:30</strong>
 
 <ul>
 
-<li>    09:00 Practical: Pi / Ping-Pong (cont)
 <li>    09:30 Pi Solution
 <li>    10:00 Non-Blocking Communication
 <li>    10:30 Practical: Message Round a Ring
@@ -101,9 +100,9 @@ the first lecture at 09:30</strong>
 <li> 14:30 Practical: Message Round a Ring (cont)
 <li> 15:00 Break
 <li> 15:15 Derived Data Types
-<li> 16:00 Practical: Message Round a Ring (cont)
-<li> 16:30 Case Study
-<li> 17:00 Finish
+<li> 16:00 Case Study
+<li> 16:15 Practical: Complete exercises
+<li> 16:45 Finish
 
 </ul>
 
